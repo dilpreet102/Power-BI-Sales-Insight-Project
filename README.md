@@ -8,3 +8,6 @@
 * This database has all sales transactions, customers, products, and market information. We will analyse this database and then hook it up with power BI. In power BI we will perform ETL and data cleaning operations to make it ready so that we can build our dashboard.
 
 * The final dashboard was effective at displaying the sales trend of Atliq hardware, allowing users to understand the data and make informed decisions.
+
+
+Link : https://app.powerbi.com/view?r=eyJrIjoiZGQ2NzgwZmYtNzM2MC00MWYxLWJmYzktOTk1YzRkZjhiNDkxIiwidCI6IjU2YWQyYThhLWU5MmQtNGNjOS05YzY2LWNlNWZjMGFlNWM4MCJ9
